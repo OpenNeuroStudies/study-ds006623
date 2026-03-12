@@ -1,0 +1,2 @@
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
+ds006623	26	n/a	n/a	n/a	1690	285	0	371808712119	2949228557	220005155	n/a	n/a	n/a	n/a	anat,func
