@@ -1,2 +1,2 @@
-source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds006623	26	n/a	n/a	n/a	154	26	0	33878466770	269047660	219990043	172181.60256570578	1118.0623543227648	16629760	107985.45454545454	anat,func
+source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	bold_tasks	bold_timepoints	bold_trs	datatypes
+ds006623	26	n/a	n/a	n/a	154	26	0	33878466770	269047660	219990043	172181.60256570578	1118.0623543227648	16629760	107985.45454545454	imagery,rest	215227	{"0.8":154}	anat,func
